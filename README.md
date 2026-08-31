@@ -3,7 +3,7 @@
 > **WebGUI avanzata per ZTE mczte e MC889 — Bookmarklet JavaScript**
 
 [![Status](https://img.shields.io/badge/Stato-Alpha%201.0-orange?style=flat-square)](https://github.com/mixmax111/OpenMc888-889-Alpha-)
-[![Modem](https://img.shields.io/badge/Modem-ZTE%20mczte%20%2F%20MC889-blue?style=flat-square)](https://github.com/mixmax111/OpenMc888-889-Alpha-)
+[![Modem](https://img.shields.io/badge/Modem-ZTE%20MC888%20%2F%20MC889-blue?style=flat-square)](https://github.com/mixmax111/OpenMc888-889-Alpha-)
 [![Licenza](https://img.shields.io/badge/Licenza-MIT-green?style=flat-square)](LICENSE)
 [![Tipo](https://img.shields.io/badge/Tipo-Bookmarklet-blueviolet?style=flat-square)](https://github.com/mixmax111/OpenMc888-889-Alpha-)
 
