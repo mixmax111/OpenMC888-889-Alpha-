@@ -1,6 +1,6 @@
 # 📡 OpenMc888 / OpenMC889
 
-> **WebGUI avanzata per ZTE mczte e MC889 — Bookmarklet JavaScript**
+> **WebGUI avanzata per ZTE MC888 e MC889 — Bookmarklet JavaScript**
 
 [![Status](https://img.shields.io/badge/Stato-Alpha%201.0-orange?style=flat-square)](https://github.com/mixmax111/OpenMc888-889-Alpha-)
 [![Modem](https://img.shields.io/badge/Modem-ZTE%20MC888%20%2F%20MC889-blue?style=flat-square)](https://github.com/mixmax111/OpenMc888-889-Alpha-)
