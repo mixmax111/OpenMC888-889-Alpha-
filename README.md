@@ -10,9 +10,9 @@
 
 ---
 
-**OpenMc888-889-Alpha-** è una WebGUI potenziata sotto forma di *Bookmarklet* (Segnalibro del browser) progettata per sbloccare le funzionalità avanzate dei modem/router 5G **ZTE mczte** e **MC889**, tipicamente distribuiti da operatori **FWA**.
+**OpenMc888-889-Alpha-** è una WebGUI potenziata sotto forma di *Bookmarklet* (Segnalibro del browser) progettata per sbloccare le funzionalità avanzate dei modem/router 5G **ZTE MC888** e **MC889**, tipicamente distribuiti da operatori **FWA**.
 
-Nato dal lavoro e dalla divulgazione di **miononno** — che ha sviluppato e pubblicato script di controllo per i router ZTE della serie mczte/889 — questo progetto porta quelle funzionalità in una **interfaccia grafica moderna**, con cruscotto dark-modal, grafici del segnale in tempo reale e **assistente guidato al puntamento dell'antenna**, senza dover craccare o flashare il dispositivo.
+Nato dal lavoro e dalla divulgazione di **miononno** — che ha sviluppato e pubblicato script di controllo per i router ZTE della serie 888/889 — questo progetto porta quelle funzionalità in una **interfaccia grafica moderna**, con cruscotto dark-modal, grafici del segnale in tempo reale e **assistente guidato al puntamento dell'antenna**, senza dover craccare o flashare il dispositivo.
 
 Sviluppato da **mix_max111** con il supporto di AI.
 
@@ -180,7 +180,7 @@ Il file `RIFERIMENTI.md` contiene tutte le variabili goform, i goformId e le str
 
 ## 🙏 Crediti, Sorgenti e Ringraziamenti
 
-Questo progetto non sarebbe nato senza il lavoro di **miononno**, che ha sviluppato e reso pubblico lo script **[Link del video originale](https://www.youtube.com/watch?v=Pb0FkrpshXc)** — il bookmark originale per il controllo avanzato dei modem ZTE mczte/889. Il reverse engineering delle API goform, la logica del polling e l'identificazione di tutti i `goformId` provengono dal suo script e da [FibraClick](https://forum.fibra.click/) (Purtroppo non ho la lista degli utenti singoli mi dispiace).
+Questo progetto non sarebbe nato senza il lavoro di **miononno**, che ha sviluppato e reso pubblico lo script **[Link del video originale](https://www.youtube.com/watch?v=Pb0FkrpshXc)** — il bookmark originale per il controllo avanzato dei modem ZTE MC888/889. Il reverse engineering delle API goform, la logica del polling e l'identificazione di tutti i `goformId` provengono dal suo script e da [FibraClick](https://forum.fibra.click/) (Purtroppo non ho la lista degli utenti singoli mi dispiace).
 
 > Il codice di questo progetto è stato scritto in modo indipendente, adattando e ampliando il lavoro originale con una UI grafica moderna. Il **metodo**, le **API** e la **comprensione del funzionamento** vengono dal suo contributo e dagli utenti di Fibraclick.
 
